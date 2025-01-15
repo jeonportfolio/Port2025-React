@@ -77,7 +77,7 @@ const Skill = () => {
                                   
                                   <h4>★NODE.JS</h4> <br/>
                                   → 실시간 채팅 (프론트(React.js & MongoDB & WebSocket사용))<br/><br/>
-                                  <a className="go" href="https://github.com/jeonportfolio/CHATTING-APP-client-" target="blank">프론트 코드</a>   <a className="go" href="https://github.com/jeonportfolio/CHATTING-APP-client-" target="blank">백엔드 코드</a><br/><br/>
+                                  <a className="go" href="https://github.com/jeonportfolio/CHATTING-APP-client-" target="blank">프론트 코드</a>   <a className="go" href="https://github.com/jeonportfolio/CHATTING-APP-node.js-" target="blank">백엔드 코드</a><br/><br/>
                                   → 할일앱 기록 API ((mongoDB & router를 활용한 API관리))<br/>
                                   <span className="fixed">▶PostMan을 활용한 API 연동 테스트</span><br/>
                                   <br/>
