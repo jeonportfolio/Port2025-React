@@ -58,8 +58,8 @@ export const introText = {
     {
         text: ["NEXT.JS", "Rainbow Mode", "Portfolio Site"],
         title: "Next.js 포트폴리오(두번째 모드<무지개 컨셉>)",
-        code: "https://github.com/jeonportfolio/port2024-next",
-        view: "https://jsuport-next.netlify.app/",
+        code: "https://github.com/jeonportfolio/Port2025-Next",
+        view: "https://jsuport-next2025.netlify.app/",
         info: [
             "NEXT.js portfolio",
             "use stack : Next.js, SCSS, gsap",
@@ -68,8 +68,8 @@ export const introText = {
     {
         text: ["VUE.JS", "Dark Mode", "Portfolio Site"],
         title: "Vue.js 포트폴리오(세번째 모드<다크 컨셉>)",
-        code: "https://github.com/jeonportfolio/port2024-vue",
-        view: "https://jsuport-vue.netlify.app/",
+        code: "https://github.com/jeonportfolio/Port2025-Vue",
+        view: "https://jsuport-vue2025.netlify.app/",
         info: [
             "VUE.js portfolio",
             "use stack : Vue.js, SCSS, gsap",
