@@ -70,8 +70,10 @@ const Skill = () => {
 
                                   <h4 >★한눈에 요약봇(진행중)</h4><br/>
                                   → ChatGpt API를 활용한 요약 사이트를 통해 긴 정보를 정확히 요약하고, 사용자 개인의 관심사와 선호도에 맞추어 효율성을 극대화하고자 하였습니다. <br/><br/>
-                                  → 진행기간(2025.01.08 ~ ) <br/><br/>
-                                  
+                                  → 진행기간(2025.01.08 ~ 2025.01.27) <br/><br/>
+                                  <span className="fixed">▶사용 유무에 따른 상태 관리 및 date-fns와 localeCompare를 활용한 기록의 날짜 및 글자 정렬</span><br/>
+                                  <span className="fixed">▶Firebase 환경 설정 후 배포</span><br/>
+                                  <span className="fixed">▶Jest-Dom을 활용한 각 액션의 자동화 테스트 </span><br/>                                  
                             
                                   <br/><br/>
                                   
