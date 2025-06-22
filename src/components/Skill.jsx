@@ -55,7 +55,7 @@ const Skill = () => {
                                   <h4 >★영화검색 사이트</h4><br/>
                                   → 편리한 영화 검색 경험을 제공하고, 영화 탐색을 보다 쉽게 접근할 수 있는 플랫폼을 제공하고자 하였습니다.<br/><br/>
                                   → 진행기간(2024.11.13 ~ 2024.12.11) <br/><br/>
-                                  <span className="fixed">▶JavaScript에서 동적 타입으로 인한 오류 발생 가능성과 코드 유지보수의 어려움을 느껴 정적 타입을 지원하는 TypeScript로 리팩토링을 수행하여 코드의 안정성과 가독성 향상</span><br/>
+                                  <span className="fixed">▶JavaScript에서 동적 타입으로 인한 오류 발생 가능성과 코드 유지보수의 어려움을 느껴 정적 타입을 지원하는 TypeScript로 리팩토링을 수행하여 코드의 안정성과 가독성 향상</span><br/><br/>
                                   <span className="fixed">▶API 키의 보안 문제를 해결하기 위해 Vercel 서버리스 서비스를 활용</span><br/><br/>
                                   <span className="fixed">▶Omdb API의 한국어 입력 제한 문제를 해결하기 위해 ChatGPT API를 도입하여 사용자들이 영화 정보를 더 쉽게 찾을 수 있도록 개선</span><br/><br/>
                                   <span className="fixed">▶챗봇 답변의 정확도를 높이기 위해 영화를 주제로 파인튜닝 진행</span><br/>
@@ -66,7 +66,7 @@ const Skill = () => {
                                   → 진행기간(2024.12.22 ~ 2025.01.05) <br/><br/>
                                   <span className="fixed">▶데이터 증발 문제를 겪고 나서 데이터를 브라우저에 영구적으로 저장할 수 있는 LocalStorage를 사용하여 상태를 유지</span><br/><br/>
                                   <span className="fixed">▶상태 관리의 복잡도가 증가함에 따라 보다 확장 가능하고 일관된 상태 관리를 위해 useReducer에서 Redux로 전환</span><br/><br/>
-                                  <span className="fixed">▶Redux Toolkit의 slice를 활용하여 상태와 Action, Reducer를 효율적으로 관리</span><br/>
+                                  
                             
                                   <br/><br/>
 
@@ -74,9 +74,9 @@ const Skill = () => {
                                   → ChatGpt API를 활용한 요약 사이트를 통해 긴 정보를 정확히 요약하고 사용자의 효율성을 극대화하고자 하였습니다. <br/><br/>
                                   → 진행기간(2025.01.08 ~ 2025.01.27) <br/><br/>
                                   <span className="fixed">▶사용 유무에 따른 상태 관리 및 date-fns와 localeCompare를 활용한 기록의 날짜 및 글자 정렬</span><br/><br/>
+                                  <span className="fixed">▶Redux Toolkit의 createslice를 활용하여 효율적인 전역 상태 관리</span><br/><br/>
+                                  <span className="fixed">▶Vitest를 활용한 각 액션과 API Mock 테스트를 통해 안정성 보장 </span><br/><br/>                                
                                   <span className="fixed">▶Firebase 환경 설정 후 배포</span><br/><br/>
-                                  <span className="fixed">▶Jest-Dom을 활용한 각 액션의 자동화 테스트 </span><br/>                                  
-                            
                                   <br/><br/>
 
                                   <h4 >★여행 계획 사이트</h4><br/>
